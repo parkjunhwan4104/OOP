@@ -22,4 +22,7 @@ int main() {
 	animal = dat;
 	animal = static_cast <Cat *>(dat);
 	animal = (Cat *)dat;
-}*/
+}
+
+*/
+
