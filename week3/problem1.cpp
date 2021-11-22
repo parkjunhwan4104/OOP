@@ -5,9 +5,9 @@
 
 /*int main() {
 	std::string s;
-	std::cout << "¹®ÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä(100ÀÚ ÀÌ³»)." << std::endl;
+	std::cout << "ë¬¸ìë¥¼ ì…ë ¥í•˜ì„¸ìš”(100ì ì´ë‚´)." << std::endl;
 	std::cin >> s;
-	std::cout << "ÀÔ·ÂµÈ ¹®ÀÚ´Â " << s << "ÀÔ´Ï´Ù." << std::endl;
+	std::cout << "ì…ë ¥ëœ ë¬¸ìëŠ” " << s << "ì…ë‹ˆë‹¤." << std::endl;
 	//system("pause"); // keep terminal open
 	return 0;
 }
