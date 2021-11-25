@@ -292,7 +292,7 @@ int main() {
 	
 
 	while (true) {
-		cout << "¼ö½ÄÀ» ÀÔ·ÂÇØÁÖ¼¼¿ä(°è»ê±â Á¾·á ½Ã 0 ÀÔ·Â):";
+		cout << "ìˆ˜ì‹ì„ ìž…ë ¥í•´ì£¼ì„¸ìš”(ê³„ì‚°ê¸° ì¢…ë£Œ ì‹œ 0 ìž…ë ¥):";
 		
 
 
@@ -336,7 +336,7 @@ int main() {
 		
 		
 		
-		std::cout << "°á°ú :" << result << endl;
+		std::cout << "ê²°ê³¼ :" << result << endl;
 
 		while (!number.empty()) {
 			number.pop();
