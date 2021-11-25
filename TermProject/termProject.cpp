@@ -307,7 +307,7 @@ int main() {
 		try {
 			if (exp[0] == '-') {
 				throw std::out_of_range("Can't exist negative ");
-				break;
+				
 
 			}
 
